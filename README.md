@@ -12,9 +12,8 @@ This project investigates the effects of air resistance and the Magnus effect on
 
 - `simulation.py`: Python simulation code
 - `report.tex`: Final LaTeX report
-- `trajectory_comparison.png`: Trajectory comparison graph
-- `height_time_graph.png`: Height-time graph
-- `sideways_curve.png`: Lateral displacement graph
+- `experiment pictures.png`: Experiment graph & Our experiment with pingpong ball 
+
 
 ## Physical Parameters
 
@@ -25,5 +24,5 @@ This project investigates the effects of air resistance and the Magnus effect on
 
 ## Author
 
-202611163 Jeongmin Lee, 202611123 Jungwoo Ahn, 202611104 ,202611195
+202611163 Jeongmin Lee, 202611123 Jungwoo Ahn, 202611104 Soyoon Baek ,202611195 Jeong Seung Woo
 DGIST General Physics I/ Project 25
