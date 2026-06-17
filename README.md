@@ -25,5 +25,5 @@ This project investigates the effects of air resistance and the Magnus effect on
 
 ## Author
 
-Jeongmin Lee  
-DGIST General Physics I Final Project
+202611163 Jeongmin Lee, 202611123 Jungwoo Ahn, 202611104 ,202611195
+DGIST General Physics I/ Project 25
